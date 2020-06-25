@@ -1,0 +1,19 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [
+      "ES2015"
+    ],
+    "declaration": true,
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "noEmitOnError": true,
+    "composite": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}

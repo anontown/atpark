@@ -1,0 +1,9 @@
+/node_modules/
+/packages/*/dist/
+/packages/*/lib/
+/packages/*/public-dist/
+/packages/*/node_modules/
+/packages/*/tsconfig.tsbuildinfo
+/data/
+/container-node_modules/
+*.env

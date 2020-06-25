@@ -1,0 +1,7 @@
+/node_modules/
+/packages/*/node_modules/
+/data/
+/container-node_modules/
+*.tsbuildinfo
+*.env
+atcouncil.env
